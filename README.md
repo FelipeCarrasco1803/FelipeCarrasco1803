@@ -1,24 +1,45 @@
-Olá, sou Felipe Morente Carrasco da Costa! 👋
-Bem-vindo(a) ao meu perfil no GitHub! Sou um Assistente de Suporte apaixonado por tecnologia e sempre em busca de novos aprendizados. Atualmente, estou aprimorando minhas habilidades em várias tecnologias fundamentais para o desenvolvimento web e sistemas, incluindo HTML, CSS, Python, Java, MySQL, e também possuo conhecimento em Google Cloud. Estou sempre explorando novas ferramentas e técnicas para melhorar a qualidade do suporte que ofereço e para contribuir com projetos inovadores.
+# Olá! Eu sou Felipe Carrasco! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-🛠 Habilidades Técnicas
-Front-end: HTML, CSS
-Back-end: Python, Java
-Banco de Dados: MySQL
-Cloud: Google Cloud
-Ferramentas: Git, GitHub, diversas ferramentas de suporte e diagnóstico.
-🌱 Aprendizado Atual
-Atualmente, estou me aprofundando em Python e explorando frameworks web como Flask e Django para ampliar minhas habilidades em desenvolvimento de aplicações back-end. Além disso, estou estudando sobre boas práticas de segurança em aplicações web e aprimorando meu conhecimento em soluções baseadas em nuvem com o Google Cloud, para fortalecer minha capacidade de oferecer suporte eficaz e seguro.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosvinicius-ai&color=blueviolet" alt="Profile views" /> </p>
 
-💼 Experiência Profissional
-Assistente de Suporte, Eicon (Ago/2023 – Presente)
-Presto suporte técnico abrangente, solucionando questões relacionadas a software e hardware.
-Desenvolvo scripts em Python para automatizar tarefas repetitivas e melhorar a eficiência dos processos internos.
-Contribuo para a manutenção e atualização de websites, utilizando HTML, CSS e JavaScript.
-Gerencio e configuro infraestruturas em nuvem no Google Cloud, otimizando recursos e garantindo a segurança dos dados.
-📫 Como me contatar
-E-mail: felipe.morente1803@gmail.com
-LinkedIn: Seu LinkedIn
-📚 Interesses Pessoais
-Quando não estou trabalhando ou estudando tecnologia, gosto de me dedicar a hobbies que me permitem relaxar e me reconectar, como literatura e video-games. Acredito firmemente na importância de manter um equilíbrio saudável entre vida profissional e pessoal para promover o bem-estar e a criatividade.
+- 🎓 Estou estudando Ciências da Computação
+- :tada: Tenho 19 anos
+- 📚 Assistente Técnico - Eicon
+- ✉️ meu e-mail: felipe.morente1803@gmail.com
 
+  [![card](https://github-readme-stats.vercel.app/api?username=carlosvinicius-ai&theme=tokyonight&show_icons=true)](https://github.com/FelipeCarrasco1803/)
+  <br>
+  <br>
+  [![FelipeCarrasco1803](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCarrasco1803&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+  
+##
+  
+### Minhas Habilidades :technologist:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Felipe-HTML" height="30" width="40" margin-top="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Felipe-CSS" height="30" width="40" margin-top="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Felipe-JS" height="30" width="40" margin-top="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Felipe-Python" height="30" width="40" margin-top="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Felipe-Java" height="30" width="40" margin-top="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Felipe-MySQL" height="30" width="40" margin-top="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Felipe-Sass" height="30" width="40" margin-top="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="Felipe-GoogleCloud" height="30" width="40" margin-top="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+  <img align="center" alt="Felipe-Vscode" height="30" width="40" margin-top="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Felipe-Figma" height="30" width="40" margin-top="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Felipe-Figma" height="30" width="40" margin-top="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
+  
+##
+  
+### Meus contatos 📱
+  
+<div> 
+  <a href = "mailto:felipe.morente1803@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-carrasco01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
+
+  ![Snake animation](https://github.com/carlosvinicius-ai/carlosvinicius-ai/blob/output/github-contribution-grid-snake.svg)
