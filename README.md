@@ -7,7 +7,7 @@
 - 📚 Assistente Técnico - Eicon
 - ✉️ meu e-mail: felipe.morente1803@gmail.com
 
-  [![card](https://github-readme-stats.vercel.app/api?username=carlosvinicius-ai&theme=tokyonight&show_icons=true)](https://github.com/FelipeCarrasco1803/)
+  [![card](https://github-readme-stats.vercel.app/api?username=FelipeCarrasco1803&theme=tokyonight&show_icons=true)](https://github.com/FelipeCarrasco1803/)
   <br>
   <br>
   [![FelipeCarrasco1803](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCarrasco1803&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
