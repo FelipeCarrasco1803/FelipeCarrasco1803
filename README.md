@@ -4,7 +4,7 @@
 
 - 🎓 Estou estudando Ciências da Computação
 - :tada: Tenho 19 anos
-- 📚 Assistente Técnico - Eicon
+- 📚 Estagiário Analise de Dados - Metainfo
 - ✉️ meu e-mail: felipe.morente1803@gmail.com
 
   [![card](https://github-readme-stats.vercel.app/api?username=FelipeCarrasco1803&theme=tokyonight&show_icons=true)](https://github.com/FelipeCarrasco1803/)
